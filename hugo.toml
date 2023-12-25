@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "7784482.png"
+      logo = "logo/7784482.png"
       # title name
       name = "VietAnhNguyen"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -185,7 +185,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "coding.png"
+      avatarURL = "logo/coding.png"
       #  title shown in home page (HTML format is supported)
       title = "My blog"
       # subtitle shown in home page (HTML format is supported)

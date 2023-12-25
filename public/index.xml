@@ -13,7 +13,7 @@
     <author>VietAnhNguyen</author>
     <guid>http://example.org/first_post/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/coding.png" referrerpolicy="no-referrer">
+                <img src="/logo/coding.png" referrerpolicy="no-referrer">
             </div><p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
 </item>
 </channel>
