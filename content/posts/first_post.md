@@ -5,8 +5,8 @@ date = 2023-10-23T14:55:27+07:00
 draft = false
 tags = ["ád"]
 categories = ["áddd"]
-featuredImage = "/coding.png"
-featuredImagePreview = "/7784482.png"
+featuredImage = "coding.png"
+featuredImagePreview = "7784482.png"
 +++
 
 
